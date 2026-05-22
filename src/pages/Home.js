@@ -46,9 +46,9 @@ function Home() {
 
       <div className="box-container">
 
-        <div className="card">POGI</div>
-        <div className="card">SARAP</div>
-        <div className="card">BANGO</div>
+        <div className="card">DREAMS</div>
+        <div className="card">ACHIEVEMENTS</div>
+        <div className="card">VISION</div>
 
       </div>
 
